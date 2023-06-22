@@ -1,8 +1,8 @@
 # SmartBrainApp
 
-This is Face Recognition App built in Machine learning Image Recognition API Clarify
+<h3>This is Face Recognition App built in Machine learning Image Recognition API Clarify</h3>
 
-Deployment using Render:
+<h5>Deployment using Render:</h5>
 
 Front: https://smart-brain-front-64pg.onrender.com
 
